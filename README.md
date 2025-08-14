@@ -12,9 +12,18 @@ We evaluate transformer-based models using different training datasets and fine-
 
 - **`Train with Released Corpus/`**  
   Experiments using a **released bilingual medical corpus** as the primary training data.
+  
+- **`ViT5 Finetune/`**  
+  Fituning scripts of ViT5 for medical domain translation to enhance healthcare-related language understanding.
 
 - **`README.md`**  
   This documentation file.
+
+- **`Report.pdf`**  
+  Report of the project.
+
+- **`results.csv`**
+  Results of the ViT5 fine-tuned model on private test.
 
 ---
 
